@@ -7,13 +7,13 @@ Developed with Unreal Engine 4
 - [ ] speedster zombie
 - [ ] tuning
 - [ ] bigger doors so zombies can fit
-- [ ] gun types
-- [ ] powerups
+- [ ] gun types (Beau)
+- [ ] powerups (Beau)
     - [ ] +damage
     - [ ] +health
     - [ ] +speed
-- [ ] money: buy guns and powerups
-- [ ] places to spend money
+- [ ] money: buy guns and powerups (Beau)
+- [ ] places to spend money (Beau)
 - [ ] ROUND SYSTEM THIS IS THE POINT LUL
 
 ## low priority
