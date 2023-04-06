@@ -7,16 +7,22 @@ Developed with Unreal Engine 4
 - [ ] speedster zombie
 - [ ] tuning
 - [ ] bigger doors so zombies can fit
-- [ ] gun types (Beau)
-- [ ] powerups (Beau)
+- [x] gun types (Beau)
+    - [x] skeleton to add easily
+    - [x] AK
+    - [x] minigun
+    - [x] shotgun
+    - [x] seriously its piss easy to add them
+- [x] powerups (Beau)
+    - [x] skeleton to add easily
     - [ ] +damage
     - [ ] +health
     - [ ] +speed
-- [ ] money: buy guns and powerups (Beau)
-- [ ] places to spend money (Beau)
+- [x] money: buy guns and powerups (Beau)
+- [x] places to spend money (thanks jason)
 - [ ] ROUND SYSTEM THIS IS THE POINT LUL
 
 ## low priority
 
-- [ ] reload
+- [x] reload
 - [ ] other powerups?
