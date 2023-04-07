@@ -16,13 +16,16 @@ Developed with Unreal Engine 4
 - [x] powerups (Beau)
     - [x] skeleton to add easily
     - [ ] +damage
-    - [ ] +health
-    - [ ] +speed
+    - [x] +health (Jason)
+    - [x] +speed (Jason)
 - [x] money: buy guns and powerups (Beau)
 - [x] places to spend money (thanks jason)
+- [x] Covert text to widgets (Jason)
+- [x] R to reload (Jason)
+- [x] Shooting, Zombie sounds, Player damage sounds (Jason)
 - [ ] ROUND SYSTEM THIS IS THE POINT LUL
 
 ## low priority
 
-- [x] reload
+- [x] reload (Jason)
 - [ ] other powerups?
